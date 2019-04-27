@@ -1,2 +1,10 @@
 
 .DS_Store
+docs/
+build/
+
+package.json
+package-lock.json
+gulpfile.js
+bower.json
+appveyor.yml
