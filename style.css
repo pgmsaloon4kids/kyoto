@@ -1,0 +1,42 @@
+body {
+	padding: 3em 0;
+	color: #444444;
+	background-color: #fff;
+	font-size: 16px;
+	background-color: #fefefe;
+}
+li {
+	list-style: none;
+	margin-bottom: 0.5em;
+}
+.boxMenu {
+	padding: 30px 15px;
+	border: 1px solid #cccccc;
+	margin: 2em auto;
+	border-radius: 6px;
+	height: 80%;
+}
+
+#top .boxMenu {
+	width: 66%;
+	height: auto;	
+}
+
+h3 {
+	text-align: center;
+}
+a.bottom {
+	display: block;
+	text-align: right;
+}
+.row-eq-height {
+	display: flex;
+	flex-wrap: wrap;
+}
+.description {
+	margin: 3em;
+	padding: 0 20%;
+}
+.logo {
+	max-width: 500px;
+}
