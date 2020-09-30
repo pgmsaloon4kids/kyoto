@@ -29,11 +29,11 @@ li {
 	margin: 30px auto;
 }
 
-.member > ul > li:not(:last-child)::after {
+#member > ul > li:not(:last-child)::after {
 	content: ", ";
 }
 
-.member > ul > li {
+#member ul li {
 	display: inline;
 }
 
