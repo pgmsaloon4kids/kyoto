@@ -23,9 +23,19 @@ li {
 }
 
 #top .member {
-	width: 80%;
+	max-width: 500px;
+	width: 100%;
 	height: auto;
 	margin: 30px auto;
+}
+
+.member ul li {
+	display: inline;
+	content: 
+}
+
+.member ul li:not(:last-child)::after {
+	content: ", "
 }
 
 h3 {
