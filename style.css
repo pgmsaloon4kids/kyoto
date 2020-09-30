@@ -22,20 +22,21 @@ li {
 	height: auto;
 }
 
-#top .member {
+.member {
 	max-width: 600px;
 	width: 100%;
 	height: auto;
 	margin: 30px auto;
 }
 
+#member ul > li {
+	display: inline;
+}
+
 #member > ul > li:not(:last-child)::after {
 	content: ", ";
 }
 
-#member ul li {
-	display: inline;
-}
 
 h3 {
 	text-align: center;
