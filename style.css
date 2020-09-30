@@ -30,7 +30,8 @@ li {
 }
 
 .member > ul > li:not(:last-child)::after {
-	content: ", "
+	display: inline;
+	content: ", ";
 }
 
 h3 {
