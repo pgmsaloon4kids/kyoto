@@ -34,7 +34,6 @@ li {
 }
 
 .member > ul > li:not(:last-child)::after {
-	display: inline;
 	content: ", ";
 }
 
