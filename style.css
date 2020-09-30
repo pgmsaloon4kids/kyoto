@@ -23,15 +23,10 @@ li {
 }
 
 #top .member {
-	max-width: 500px;
+	max-width: 600px;
 	width: 100%;
 	height: auto;
 	margin: 30px auto;
-}
-
-.member > ul > li {
-	display: inline;
-	content: 
 }
 
 .member > ul > li:not(:last-child)::after {
