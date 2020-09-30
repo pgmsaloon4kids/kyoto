@@ -17,10 +17,15 @@ li {
 	height: 80%;
 }
 
-#top .member,
 #top .boxMenu {
 	width: 80%;
 	height: auto;
+}
+
+#top .member {
+	width: 80%;
+	height: auto;
+	margin: 30px auto;
 }
 
 h3 {
