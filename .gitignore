@@ -2,6 +2,7 @@
 .DS_Store
 docs/
 build/
+_site/
 
 package.json
 package-lock.json
