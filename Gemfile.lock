@@ -71,9 +71,11 @@ GEM
 
 PLATFORMS
   x86_64-linux
+  x86_64-linux-musl
 
 DEPENDENCIES
   bundler
+  jekyll (= 4.2.0)
   minima!
 
 BUNDLED WITH
