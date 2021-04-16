@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /2019/recipe/
+permalink: /kyoto/2019/recipe/
 ---
 こちらは、子どもプログラミング喫茶@京都で体験したことを、おうちでやってみよう！という方向けの参考リンク集です。
 
