@@ -1,0 +1,39 @@
+I"U
+<p>こちらは、子どもプログラミング喫茶@京都で体験したことを、おうちでやってみよう！という方向けの参考リンク集です。</p>
+
+<h2 id="サヌキテックネット">サヌキテックネット</h2>
+<p>これから「ものづくり人:maker」を目指す人を対象に作られたサヌキテックネットさんのサイトでは、micro:bit以外のデバイスも含めた情報が満載。丁寧に作り上げられたコンテンツは読みやすく、過去の記事も適宜メンテナンスされているので、情報の精度が高くオススメ！</p>
+
+<ul>
+  <li><a href="https://sanuki-tech.net/">サヌキテックネット</a></li>
+</ul>
+
+<h2 id="ネコリンピック仮">ネコリンピック（仮）</h2>
+<p>Scratch3.0とmicro:bitの組合せで、ネコリンピック（仮）と名付けられた体を動かすプロジェクトの動画を多数公開されています。本物のトレーニング機器を使っているので、プログラムを作って頭を使い、作ったプログラムで体を使う、文武両道なプロジェクトです。</p>
+
+<ul>
+  <li><a href="http://make-lab.sakura.ne.jp/nekolympic.html">ハイパー・ネコリンピック</a></li>
+  <li><a href="https://scratch.mit.edu/studios/8509734/">ハイパー・ネコリンピック Studio</a></li>
+</ul>
+
+<h2 id="tfabworks">TFabWorks</h2>
+<p>micro:bitを使った子ども向けプログラミングキットや学校向けの教材を開発・販売。最近では、NPO法人みんなのコードと一緒に<a href="https://proguru.jp/science">小学６年生理科の授業用の教材</a>をリリースしました。</p>
+
+<ul>
+  <li><a href="https://tfabworks.com/">TFabWorks</a></li>
+</ul>
+
+<h2 id="ml2scratch">ML2Scratch</h2>
+<p>ML2Scratchは機械学習の仕組み(TensorFlow.js)とScratchとをつなげるプロジェクト。カメラで認識した画像を学習させてジェスチャーで操作したり、グー、チョキ、パーの手の形を判別させられます。</p>
+
+<ul>
+  <li><a href="https://champierre.github.io/ml2scratch/">ML2Scratch</a></li>
+</ul>
+
+<h2 id="keigan-motor">Keigan Motor</h2>
+<p>「誰もが素早く簡単にロボットをつくる」をモットーに開発されている、箱につければ車になり、棒につけるとアームになるモーター。アクチュエータ（駆動装置）としてだけでなく、モーターにかかった力を情報として入力するための入力デバイスとしても使えます。</p>
+
+<ul>
+  <li><a href="https://keigan-motor.com/">Keigan Motor</a></li>
+</ul>
+:ET
