@@ -3,6 +3,7 @@
 docs/
 build/
 _site/
+.jekyll-cache/
 
 package.json
 package-lock.json
