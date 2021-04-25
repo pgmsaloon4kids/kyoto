@@ -48,8 +48,9 @@ h3 {
     background: #1B823A;
     border: solid 1px 097752;
     border-radius: 4px;
+    &:visited,
     &:hover {
-        text-decoration: none;
+            text-decoration: none;
         color: #FFF;
         opacity: 0.9;
     }
