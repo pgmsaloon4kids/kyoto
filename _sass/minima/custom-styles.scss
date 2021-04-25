@@ -38,3 +38,32 @@ h3 {
         font-size: 16px;
     }
 }
+
+.green-btn {
+    display: inline-block;
+    font-size: 1.4em;
+    margin: .6em 0;
+    padding: 0.3em 1.2em;
+    color: #FFF;
+    background: #1B823A;
+    border: solid 1px 097752;
+    border-radius: 4px;
+    &:hover {
+        text-decoration: none;
+        color: #FFF;
+        opacity: 0.9;
+    }
+    @media only screen and (max-width: 768px) {
+        width: 90%;
+        font-size: 1.2em;
+        padding: 0.3em 0.8em;
+        text-align: center;
+    }
+}
+
+.post-title {
+    @media only screen and (max-width: 768px) {
+        font-size: 1.5em;
+        line-height: 1.3;
+    }
+}
