@@ -50,20 +50,33 @@ footer {
     background-color: #E2DCD5;
 }
 
-h3 {
-    font-size: 1em;
-    font-weight: 700;
-}
-
-#exhibition {
-    h3 {
-        font-size: 1.5em;
+.post-content {
+    h2 {
+        font-size: 1.8em;
+        font-weight: bold;
+        padding: 0.25em 0.5em;
+        border-left: solid 5px #209643;
         @media only screen and (max-width: 768px) {
-            font-size: 1.2em;
+            font-size: 1.3em;
         }
     }
-    p {
-        font-size: 16px;
+    h3 {
+        font-size: 1.4em;
+        font-weight: bold;
+        padding-bottom: .4em;
+        border-bottom: solid 3px #E2DCD5;
+        position: relative;
+        &:after {
+            position: absolute;
+            content: " ";
+            display: block;
+            border-bottom: solid 3px #209643;
+            bottom: -3px;
+            width: 30%;
+        }
+        @media only screen and (max-width: 768px) {
+            font-size: 1em;
+        }
     }
 }
 
@@ -91,8 +104,11 @@ h3 {
 }
 
 .post-title {
+    font-weight: bold;
+    font-size: 1.8em;
+    line-height: 1.5;
     @media only screen and (max-width: 768px) {
-        font-size: 1.5em;
+        font-size: 1.4em;
         line-height: 1.3;
     }
 }
