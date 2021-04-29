@@ -4,8 +4,6 @@ permalink: /exhibition/tsujimoto
 title: もっさんの展示ページ
 author: tsujimoto
 ---
-## プロフィール
-
 - 名前：もっさん
 - 学年：四捨五入したら40歳
 - 住んでるところ：東京都

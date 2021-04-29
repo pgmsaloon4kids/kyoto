@@ -4,8 +4,6 @@ permalink: /exhibition/senbo-muneya
 title: 泉保宗也の展示ページ
 author: senbo-muneya
 ---
-## プロフィール
-
 - 名前：泉保宗也（せんぼむねや）
 - 年齢：1969年生まれ
 - 住んでるところ：香川県
