@@ -4,7 +4,11 @@ layout: default
 <article id="exhibition">
 
   <div class="post-content">
-    <img src="{{ site.baseurl }}/assets/images/exhibition/icon/{{ page.author }}.png" class="icon">
+    {% if page.icon %}
+      <img src="{{ site.baseurl }}/assets/images/exhibition/icon/{{ page.author }}.png" class="icon">
+    {% else %}
+      <h2>プロフィール</h2>
+    {% endif %}
     {{ content }}
   </div>
 

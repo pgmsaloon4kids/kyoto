@@ -3,6 +3,7 @@ layout: exhibition
 permalink: /exhibition/spirit-of-bijyutsu
 title: 田中 信圭の展示ページ
 author: spirit-of-bijyutsu
+icon: true
 ---
 - 名前： 田中　信圭（スクラッチネーム：spirit-of-bijyutsu）
 - 学年：４１歳
