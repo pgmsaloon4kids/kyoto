@@ -1,6 +1,20 @@
 // Placeholder to allow defining custom styles that override everything else.
 // (Use `_sass/minima/custom-variables.scss` to override variable defaults)
 
+.header-icon {
+    width: 200px;
+    margin-right: 1em;
+    @media only screen and (max-width: 768px) {
+        display: none;
+    }
+    &.mobile {
+        width: 40px;
+        display: none;
+        @media only screen and (max-width: 768px) {
+            display: inline-block;
+        }
+    }
+}
 
 .logo_box {
     display: flex;
@@ -10,15 +24,26 @@
 }
 
 .site-title {
-    font-size: 1.4em;
+    font-size: 1.2em;
     color: white;
+    &:hover {
+        text-decoration: none;
+    }
     &:visited {
         color: white;
+    }
+    @media only screen and (max-width: 768px) {
+        font-size: 1em;
     }
 }
 
 .site-header {
     background-color: #1B823A;
+    .wrapper {
+        max-width: calc(800px - (10px * 2));
+        padding-right: 10px;
+        padding-left: 10px;
+    }
 }
 
 footer {
