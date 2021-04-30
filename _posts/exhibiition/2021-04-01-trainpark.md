@@ -3,6 +3,7 @@ layout: exhibition
 permalink: /exhibition/trainpark-r
 title: 北川 諒の展示ページ
 author: trainpark-r
+icon: true
 ---
 - 名前：北川　諒
 - 学年：小学６年生
