@@ -3,6 +3,7 @@ layout: exhibition
 permalink: /exhibition/tsujimoto
 title: もっさんの展示ページ
 author: tsujimoto
+icon: true
 ---
 - 名前：もっさん
 - 学年：四捨五入したら40歳
