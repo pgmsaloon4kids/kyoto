@@ -28,7 +28,10 @@ C言語、エクセル（マクロ、VBA）、Unity（初心者レベル）、Sc
 - 作品名：多面体画像
 - 言語（ツール）：エクセル（VBA）
 
-![多面体画像１]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/01.png)
+### 多面体画像１
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/LusterReflection1.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/MirrorReflection1.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/CrystalReflection1.png)
 
 ### 作品の説明
 
@@ -52,22 +55,48 @@ C言語、エクセル（マクロ、VBA）、Unity（初心者レベル）、Sc
 
 　この後、多面体模型を構成する三角形等のサイズが小さくなり、もっと滑らかな表面を表現できるよう進化します。それに伴って、表現できる色彩もより多様になっていきます。
 
-![多面体画像２]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/02.png)
+### 多面体画像2
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/LusterReflection2.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/MirrorReflection2.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/CrystalReflection2.png)
 
-![多面体画像３]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/03.png)
+### 多面体画像3
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/LusterReflection3.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/MirrorReflection3.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/CrystalReflection3.png)
 
 　そして、様々な外形を持つ多面体模型を作成できるよう進化します。
 
-[多面体画像作品集](https://www.notion.so/a13eefae03de45c89f1a819770fa1daf?v=bcb267147376466690732e062b8e0b79)
+### 多面体画像作品集
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron01.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron02.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron03.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron04.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron05.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron06.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron07.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron08.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron09.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron10.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron11.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron12.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron13.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron14.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron15.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/polyhedron16.png)
 
 　また、多面体模型同士を結合して新たな多面体模型を構成できるよう進化します。
 
-[多面体模型同士の結合](https://www.notion.so/90f443f4cbb745979af8110d8b5c2905?v=f250d9e21f6b44f59253779381ea6828)
+### 多面体模型同士の結合
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/CrystalRefrectionCombined.png)
+![]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/LusterReflectionCombined.png)
 
 　また、多面体模型を光の速度に近いスピードで回転させた場合にどのように見えるかについて画像の作成ができるように進化します。
 
 [特殊相対論的回転](https://www.notion.so/6b8c1dcf610a4f54a094050ea426c26f?v=b1f3950020844193939e63cb0c39c3f8)
 
-![特殊相対論的回転]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/turning.gif)
+![特殊相対論的回転]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/20210402001_spe_rel_spin.mp4)
+
+
 
 　更に、光のドップラー効果を考慮した場合どのように見えるかを画像で出力し、スクラッチを使って表示させることができるように進化します（[スクラッチのページへのリンクです](https://scratch.mit.edu/projects/510460707/)）。
