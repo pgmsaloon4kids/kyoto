@@ -11,6 +11,14 @@ title: 子どもプログラミングパークの楽しみ方
 3. 来場者のみなさんも自分の作ったプログラミング作品を見せていただけると嬉しいです。
 4. 自宅から参加できるオンラインイベントですので、飲み物や食べ物、お菓子を用意して家族みんなで楽しんでください。
 
+子どもプログラミングパーク会場へはGoogle Chromeを使って入場されることをおすすめします。
+
+[Google Chromeのダウンロードはこちら](https://www.google.co.jp/chrome/){:target="_blank"}
+
+## チケット購入者向け - オンライン会場入場説明
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k3OtGxLRMaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 会場案内
 こちらが、子どもプログラミングパークの会場レイアウトです。
 ![会場イメージ]({{ site.baseurl }}/assets/images/2021/venue.png)
