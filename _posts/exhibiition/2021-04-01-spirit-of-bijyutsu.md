@@ -95,8 +95,8 @@ C言語、エクセル（マクロ、VBA）、Unity（初心者レベル）、Sc
 
 [特殊相対論的回転](https://www.notion.so/6b8c1dcf610a4f54a094050ea426c26f?v=b1f3950020844193939e63cb0c39c3f8)
 
-![特殊相対論的回転]({{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/20210402001_spe_rel_spin.mp4)
+<video controls>
+    <source src="{{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/20210402001_spe_rel_spin.mp4">
+</video>
 
-
-
-　更に、光のドップラー効果を考慮した場合どのように見えるかを画像で出力し、スクラッチを使って表示させることができるように進化します（[スクラッチのページへのリンクです](https://scratch.mit.edu/projects/510460707/)）。
+　更に、光のドップラー効果を考慮した場合どのように見えるかを画像で出力し、スクラッチを使って表示させることができるように進化します（[スクラッチのページへのリンクです](https://scratch.mit.edu/projects/510460707/){:target="_blank"}）。
