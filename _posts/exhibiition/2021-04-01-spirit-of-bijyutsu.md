@@ -95,7 +95,7 @@ C言語、エクセル（マクロ、VBA）、Unity（初心者レベル）、Sc
 
 [特殊相対論的回転](https://www.notion.so/6b8c1dcf610a4f54a094050ea426c26f?v=b1f3950020844193939e63cb0c39c3f8)
 
-<video controls>
+<video controls width="400px">
     <source src="{{ site.baseurl }}/assets/images/exhibition/{{ page.author }}/20210402001_spe_rel_spin.mp4">
 </video>
 
